@@ -11,7 +11,7 @@ Make sure the robot's USB cable is plugged in and the interface is turned on.
 
 ## Usage
 
-    var OWIRobotArm = require('OWIRobotArm');
+    var OWIRobotArm = require('owi-robot-arm');
 
     var arm = new OWIRobotArm();
 
