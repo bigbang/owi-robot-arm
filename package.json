@@ -1,0 +1,22 @@
+{
+  "name": "owi-robot-arm",
+  "version": "0.1.0",
+  "description": "Driver for OWI-535 ROBOTIC Arm Edge w/ USB",
+  "keywords": [
+    "robotics",
+    "robot",
+    "usb"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Wagner",
+  "license": "MIT",
+  "dependencies": {
+    "usb": "~0.3.11"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-run": "^0.2.4"
+  }
+}
