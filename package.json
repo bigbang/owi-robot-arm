@@ -1,27 +1,27 @@
 {
-    "name": "owi-robot-arm",
-    "version": "0.0.1",
-    "description": "Driver for OWI-535 ROBOTIC Arm Edge w/ USB",
-    "keywords": [
-        "robotics",
-        "robot",
-        "usb",
-        "nodebot",
-        "nodebots"
-    ],
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "Jonathan Wagner",
-    "license": "MIT",
-    "dependencies": {
-        "usb": "~0.3.11"
-    },
-    "main": "lib/OWIRobotArm.js",
-    "repository": "bigbang/owi-robot-arm",
-    "homepage": "https://github.com/bigbang/owi-robot-arm",
-    "devDependencies": {
-        "grunt": "^0.4.5",
-        "grunt-run": "^0.2.4"
-    }
+  "name": "owi-robot-arm",
+  "version": "0.0.1",
+  "description": "Driver for OWI-535 ROBOTIC Arm Edge w/ USB",
+  "keywords": [
+    "robotics",
+    "robot",
+    "usb",
+    "nodebot",
+    "nodebots"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Wagner",
+  "license": "MIT",
+  "dependencies": {
+    "usb": "^1.1.2"
+  },
+  "main": "lib/OWIRobotArm.js",
+  "repository": "bigbang/owi-robot-arm",
+  "homepage": "https://github.com/bigbang/owi-robot-arm",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-run": "^0.2.4"
+  }
 }
